@@ -1,0 +1,49 @@
+./2013:
+Divvy_Stations_2013.csv      Divvy_Trips_2013.csv
+Divvy_Stations_2013.shp.zip  README.txt
+
+./2014:
+Divvy_Stations_2014-Q1Q2.xlsx  Divvy_Trips_2014-Q3-07.csv    README.txt
+Divvy_Stations_2014-Q3Q4.csv   Divvy_Trips_2014-Q3-0809.csv
+Divvy_Trips_2014_Q1Q2.csv      Divvy_Trips_2014-Q4.csv
+
+./2015:
+Divvy_Stations_2015.csv  Divvy_Trips_2015_09.csv  Divvy_Trips_2015_Q4.csv
+Divvy_Trips_2015_07.csv  Divvy_Trips_2015-Q1.csv
+Divvy_Trips_2015_08.csv  Divvy_Trips_2015-Q2.csv
+
+./2016:
+Divvy_Stations_2016_Q1Q2.csv  Divvy_Trips_2016_05.csv  Divvy_Trips_2016_Q4.csv
+Divvy_Stations_2016_Q3.csv    Divvy_Trips_2016_06.csv  README_2016_Q3.txt
+Divvy_Stations_2016_Q4.csv    Divvy_Trips_2016_Q1.csv  README_2016_Q4.txt
+Divvy_Trips_2016_04.csv       Divvy_Trips_2016_Q3.csv  README.txt
+
+./2017:
+Divvy_Stations_2017_Q1Q2.csv  Divvy_Trips_2017_Q2.csv  README.txt
+Divvy_Stations_2017_Q3Q4.csv  Divvy_Trips_2017_Q3.csv
+Divvy_Trips_2017_Q1.csv       Divvy_Trips_2017_Q4.csv
+
+./2018:
+Divvy_Trips_2018_Q1.csv  Divvy_Trips_2018_Q3.csv
+Divvy_Trips_2018_Q2.csv  Divvy_Trips_2018_Q4.csv
+
+./2019:
+Divvy_Trips_2019_Q1.csv  Divvy_Trips_2019_Q3.csv
+Divvy_Trips_2019_Q2.csv  Divvy_Trips_2019_Q4.csv
+
+./2020:
+202004-divvy-tripdata.csv  202008-divvy-tripdata.csv  202012-divvy-tripdata.csv
+202005-divvy-tripdata.csv  202009-divvy-tripdata.csv  Divvy_Trips_2020_Q1.csv
+202006-divvy-tripdata.csv  202010-divvy-tripdata.csv
+202007-divvy-tripdata.csv  202011-divvy-tripdata.csv
+
+./2021:
+202101-divvy-tripdata.csv  202105-divvy-tripdata.csv  202109-divvy-tripdata.csv
+202102-divvy-tripdata.csv  202106-divvy-tripdata.csv  202110-divvy-tripdata.csv
+202103-divvy-tripdata.csv  202107-divvy-tripdata.csv  202111-divvy-tripdata.csv
+202104-divvy-tripdata.csv  202108-divvy-tripdata.csv  202112-divvy-tripdata.csv
+
+./2022:
+202201-divvy-tripdata.csv  202203-divvy-tripdata.csv
+202202-divvy-tripdata.csv  202204-divvy-tripdata.csv
+

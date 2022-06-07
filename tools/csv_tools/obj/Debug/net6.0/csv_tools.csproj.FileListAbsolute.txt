@@ -1,0 +1,15 @@
+/home/xer/src/bike-share/tools/csv_tools/bin/Debug/net6.0/csv_tools
+/home/xer/src/bike-share/tools/csv_tools/bin/Debug/net6.0/csv_tools.deps.json
+/home/xer/src/bike-share/tools/csv_tools/bin/Debug/net6.0/csv_tools.runtimeconfig.json
+/home/xer/src/bike-share/tools/csv_tools/bin/Debug/net6.0/csv_tools.dll
+/home/xer/src/bike-share/tools/csv_tools/bin/Debug/net6.0/csv_tools.pdb
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.csproj.AssemblyReference.cache
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.GeneratedMSBuildEditorConfig.editorconfig
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.AssemblyInfoInputs.cache
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.AssemblyInfo.cs
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.csproj.CoreCompileInputs.cache
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.dll
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/refint/csv_tools.dll
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.pdb
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/csv_tools.genruntimeconfig.cache
+/home/xer/src/bike-share/tools/csv_tools/obj/Debug/net6.0/ref/csv_tools.dll
